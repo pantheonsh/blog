@@ -1,7 +1,7 @@
 baseURL = "https://pantheonsh.ml/"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
-title = "Hugo tranquilpeak theme"
+title = "Pantheon weblog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "pantheonsh-blog"
 paginate = 10
