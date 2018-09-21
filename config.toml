@@ -1,4 +1,4 @@
-baseURL = "https://localhost:1313/"
+baseURL = "https://pantheonsh.ml/"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = "Hugo tranquilpeak theme"
