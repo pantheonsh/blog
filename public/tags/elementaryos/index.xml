@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elementaryos on Hugo tranquilpeak theme</title>
+    <link>http://localhost:1313/tags/elementaryos/</link>
+    <description>Recent content in Elementaryos on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 20 Sep 2018 17:32:42 -0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/elementaryos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O dia em que peguei o Wi-Fi do colégio, instalando Linux (pt. 1)</title>
+      <link>http://localhost:1313/2018/09/o-dia-em-que-peguei-o-wi-fi-do-col%C3%A9gio-instalando-linux-pt.-1/</link>
+      <pubDate>Thu, 20 Sep 2018 17:32:42 -0300</pubDate>
+      
+      <guid>http://localhost:1313/2018/09/o-dia-em-que-peguei-o-wi-fi-do-col%C3%A9gio-instalando-linux-pt.-1/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
